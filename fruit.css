@@ -1,0 +1,226 @@
+/*Fruit CSS Made By: Hunter Gersitz on 7/27/15
+Last updated on 7/27/15. This code is Open-source and can be modified or edited, however this code is
+not for resale or to be used on the web wihout Hunter Gersitz permission. All Rights Reserved.
+
+**@293921001.8409280928**
+
+To use Fruit CSS add a div class to your html document, then specify the name of the color you want
+from the list below!
+*/
+
+header {
+    width: 100%;
+    height: 95px;
+    background-color: green;
+    
+}
+
+/*The Colors...*/
+
+.bananna {
+    background-color: #FEDD36;
+}
+.apple {
+    background-color: #D9301D;
+}
+.black-currant {
+    background-color: #3B3B47;
+}
+.cantaloupe {
+    background-color: #D4C59A;
+}
+.cherimoya {
+    background-color: #A9A156;
+}
+.crab-a {
+    background-color: #FC7136;
+}
+.date-plum {
+    background-color: #F04914;
+}
+.golden-kiwi {
+    background-color: #B26320;
+}
+.huckleberries {
+    background-color: #709CE7;
+}
+.kiwi {
+    background-color: #B99630;
+}
+.lychee {
+    background-color: #D76D6D;
+}
+.mulberries {
+    background-color: #3C4144;
+}
+.persiann-melon {
+    background-color: #C8B491;
+}
+.pummelo {
+    background-color: #B1B544;
+}
+.sapodilla {
+    background-color: #CEA571;
+}
+.surinam-cherry {
+    background-color: #CB4150;
+}
+.green-bananna {
+    background-color: #B9D491;
+}
+.apricot {
+    background-color: #FDB255;
+}
+.blackberry {
+    background-color: #65626B;
+}
+.cape-gooseberry {
+    background-color: #F76F0B;
+}
+.cherries {
+    background-color: #940509;
+}
+.cranberries-f {
+    background-color: #F10005;
+}
+.durian {
+    background-color: #6E3D12;
+}
+.grape-juice {
+    background-color: #36171C;
+}
+.jackfruit {
+    background-color: #A29E32;
+}
+.kumquat {
+    background-color: #FE9F05;
+}
+.mamey-sapote {
+    background-color: #E3592B;
+}
+.muscadine-grapes {
+    background-color: #5F5762;
+}
+.persimmon {
+    background-color: #FA843A;
+}
+.quince {
+    background-color: #FCDB4E;
+}
+.sapote {
+    background-color: 
+}
+.tangerine {
+    background-color: #FE8B16;
+}
+.blueberry {
+    background-color: #566B86;
+}
+.americanCucumber {
+    background-color: #A7BA61;
+}
+.boysenberry {
+    background-color: #902215;
+}
+.caraNavelOrange {
+    background-color: #F5B50D;
+}
+.chokecherries {
+    background-color: #3F233A;
+}
+.cranberries-dried {
+    background-color: #A14554;
+}
+.elderberries {
+    background-color: #58606D;
+}
+.grapefruit {
+    background-color: #EA5F62;
+}
+.jambolan {
+    background-color: #362B39;
+}
+.lemon {
+    background-color: #FFE22F;
+}
+.mango {
+    background-color: #FA6B5D;
+}
+.nectarine {
+    background-color: #E45E45;
+}
+.pineapple {
+    background-color: #7C9263;
+}
+.raisins {
+    background-color: #6B4A43;
+}
+.sharonFruit {
+    background-color: #E26A1C;
+}
+.ugliFruit {
+    background-color: #7D7628;
+}
+.pear {
+    background-color: #F4E163;
+}
+.asianPear {
+    background-color: #EDB440;
+}
+.breadFruit {
+    background-color: #C6CC44;
+}
+.caribbeanJunePlum {
+    background-color: #92AD2C;
+}
+.clementines {
+    background-color: #E26207;
+}
+.crenshawMelon {
+    background-color: #D4D317;
+}
+.feijoa {
+    background-color: #889E49;
+}
+.grapes {
+    background-color: #C1CA6D;
+}
+.jujube {
+    background-color: #903F2A;
+}
+.lime {
+    background-color: #90C143;
+}
+.mangosteen {
+    background-color: #67434D;
+}
+.orange {
+    background-color: #FE8C08;
+}
+.plantain {
+    background-color: #BCB241;
+}
+.redBanana {
+    background-color: #DA5864;
+}
+.soursop {
+    background-color: #D4D780;
+}
+.waterCoccunut {
+    background-color: #92B342;
+}
+.squash {
+    background-color: #D5BD77;
+}
+.avocado {
+    background-color: #72A45F;
+}
+.brownTurkeyFig {
+    background-color: #914547;
+}
+.carissa {
+    background-color: #E03D3E;
+}
+.coconut {
+    background-color: #A16437;
+}

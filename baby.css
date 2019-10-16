@@ -1,0 +1,100 @@
+/*
+Created By: Hunter Gersitz from www.cheektowagawebdesign.com;
+For: Buffalo Ny Web Design | A Code Company;
+Version: D1;
+Date created: 4/23/15;
+
+Copyright 2015 Hunter Gersitz.
+*/
+
+@import url("http://meyerweb.com/eric/tools/css/reset/reset.css");
+
+/*Layout*/
+
+.h {
+	width: 100%;
+	height: 75px;
+}
+/*Logo*/
+.l {
+	margin-top: -50px;
+	font-family: arial;
+	font-size: 2em;
+	margin-left: 30px;
+	cursor: pointer;
+}
+img.l {
+	max-width: 100%;
+    width: 45px;
+    height: auto;
+    margin-top: -53px;
+    display: block;
+}
+
+/*Navbars*/
+.m {
+	list-style: none;
+	margin-top: -25px;
+	margin-right: 95px;
+}
+.m li {
+	display: inline;
+	font-size: 16px;
+	font-family: arial;
+	margin-right: 25px;
+}
+
+/*Float*/
+.fl {
+	float: left;
+	clear: right;
+}
+.fc {
+	margin-left: auto;
+	margin-right: auto;
+}
+.fr {
+	float: right;
+	clear: left;
+}
+
+
+/*Colors*/
+
+.smoke {
+	background-color: grey;
+}
+.smoket {
+	color: grey;
+}
+.bee{
+	background-color: yellow;
+}
+.beet{
+	color: yellow;
+}
+.b {
+	background-color: blue;
+}
+.bt {
+	color: blue;
+}
+.g {
+	background-color: green;
+}
+.gt {
+	color: green;
+}
+.coal {
+	background-color: black;
+}
+.coalt {
+	color: black;
+}
+/*white*/
+.q {
+	background-color: white;
+}
+.qt {
+	color: white;
+}
